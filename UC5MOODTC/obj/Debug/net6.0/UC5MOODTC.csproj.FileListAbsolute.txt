@@ -1,0 +1,15 @@
+C:\Users\Nirav Raj\Desktop\day 22\UC5MOODTC\bin\Debug\net6.0\UC5MOODTC.exe
+C:\Users\Nirav Raj\Desktop\day 22\UC5MOODTC\bin\Debug\net6.0\UC5MOODTC.deps.json
+C:\Users\Nirav Raj\Desktop\day 22\UC5MOODTC\bin\Debug\net6.0\UC5MOODTC.runtimeconfig.json
+C:\Users\Nirav Raj\Desktop\day 22\UC5MOODTC\bin\Debug\net6.0\UC5MOODTC.dll
+C:\Users\Nirav Raj\Desktop\day 22\UC5MOODTC\bin\Debug\net6.0\UC5MOODTC.pdb
+C:\Users\Nirav Raj\Desktop\day 22\UC5MOODTC\obj\Debug\net6.0\UC5MOODTC.csproj.AssemblyReference.cache
+C:\Users\Nirav Raj\Desktop\day 22\UC5MOODTC\obj\Debug\net6.0\UC5MOODTC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav Raj\Desktop\day 22\UC5MOODTC\obj\Debug\net6.0\UC5MOODTC.AssemblyInfoInputs.cache
+C:\Users\Nirav Raj\Desktop\day 22\UC5MOODTC\obj\Debug\net6.0\UC5MOODTC.AssemblyInfo.cs
+C:\Users\Nirav Raj\Desktop\day 22\UC5MOODTC\obj\Debug\net6.0\UC5MOODTC.csproj.CoreCompileInputs.cache
+C:\Users\Nirav Raj\Desktop\day 22\UC5MOODTC\obj\Debug\net6.0\UC5MOODTC.dll
+C:\Users\Nirav Raj\Desktop\day 22\UC5MOODTC\obj\Debug\net6.0\refint\UC5MOODTC.dll
+C:\Users\Nirav Raj\Desktop\day 22\UC5MOODTC\obj\Debug\net6.0\UC5MOODTC.pdb
+C:\Users\Nirav Raj\Desktop\day 22\UC5MOODTC\obj\Debug\net6.0\UC5MOODTC.genruntimeconfig.cache
+C:\Users\Nirav Raj\Desktop\day 22\UC5MOODTC\obj\Debug\net6.0\ref\UC5MOODTC.dll

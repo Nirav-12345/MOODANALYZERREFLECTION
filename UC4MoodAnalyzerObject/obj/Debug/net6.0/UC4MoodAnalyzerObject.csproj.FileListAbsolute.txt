@@ -1,0 +1,15 @@
+C:\Users\Nirav Raj\Desktop\day 22\UC4MoodAnalyzerObject\obj\Debug\net6.0\UC4MoodAnalyzerObject.csproj.AssemblyReference.cache
+C:\Users\Nirav Raj\Desktop\day 22\UC4MoodAnalyzerObject\obj\Debug\net6.0\UC4MoodAnalyzerObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav Raj\Desktop\day 22\UC4MoodAnalyzerObject\obj\Debug\net6.0\UC4MoodAnalyzerObject.AssemblyInfoInputs.cache
+C:\Users\Nirav Raj\Desktop\day 22\UC4MoodAnalyzerObject\obj\Debug\net6.0\UC4MoodAnalyzerObject.AssemblyInfo.cs
+C:\Users\Nirav Raj\Desktop\day 22\UC4MoodAnalyzerObject\obj\Debug\net6.0\UC4MoodAnalyzerObject.csproj.CoreCompileInputs.cache
+C:\Users\Nirav Raj\Desktop\day 22\UC4MoodAnalyzerObject\bin\Debug\net6.0\UC4MoodAnalyzerObject.exe
+C:\Users\Nirav Raj\Desktop\day 22\UC4MoodAnalyzerObject\bin\Debug\net6.0\UC4MoodAnalyzerObject.deps.json
+C:\Users\Nirav Raj\Desktop\day 22\UC4MoodAnalyzerObject\bin\Debug\net6.0\UC4MoodAnalyzerObject.runtimeconfig.json
+C:\Users\Nirav Raj\Desktop\day 22\UC4MoodAnalyzerObject\bin\Debug\net6.0\UC4MoodAnalyzerObject.dll
+C:\Users\Nirav Raj\Desktop\day 22\UC4MoodAnalyzerObject\bin\Debug\net6.0\UC4MoodAnalyzerObject.pdb
+C:\Users\Nirav Raj\Desktop\day 22\UC4MoodAnalyzerObject\obj\Debug\net6.0\UC4MoodAnalyzerObject.dll
+C:\Users\Nirav Raj\Desktop\day 22\UC4MoodAnalyzerObject\obj\Debug\net6.0\refint\UC4MoodAnalyzerObject.dll
+C:\Users\Nirav Raj\Desktop\day 22\UC4MoodAnalyzerObject\obj\Debug\net6.0\UC4MoodAnalyzerObject.pdb
+C:\Users\Nirav Raj\Desktop\day 22\UC4MoodAnalyzerObject\obj\Debug\net6.0\UC4MoodAnalyzerObject.genruntimeconfig.cache
+C:\Users\Nirav Raj\Desktop\day 22\UC4MoodAnalyzerObject\obj\Debug\net6.0\ref\UC4MoodAnalyzerObject.dll
