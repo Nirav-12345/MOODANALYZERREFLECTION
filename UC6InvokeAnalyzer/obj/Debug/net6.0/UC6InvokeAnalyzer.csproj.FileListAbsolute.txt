@@ -1,0 +1,15 @@
+C:\Users\Nirav Raj\Desktop\day 22\UC6InvokeAnalyzer\bin\Debug\net6.0\UC6InvokeAnalyzer.exe
+C:\Users\Nirav Raj\Desktop\day 22\UC6InvokeAnalyzer\bin\Debug\net6.0\UC6InvokeAnalyzer.deps.json
+C:\Users\Nirav Raj\Desktop\day 22\UC6InvokeAnalyzer\bin\Debug\net6.0\UC6InvokeAnalyzer.runtimeconfig.json
+C:\Users\Nirav Raj\Desktop\day 22\UC6InvokeAnalyzer\bin\Debug\net6.0\UC6InvokeAnalyzer.dll
+C:\Users\Nirav Raj\Desktop\day 22\UC6InvokeAnalyzer\bin\Debug\net6.0\UC6InvokeAnalyzer.pdb
+C:\Users\Nirav Raj\Desktop\day 22\UC6InvokeAnalyzer\obj\Debug\net6.0\UC6InvokeAnalyzer.csproj.AssemblyReference.cache
+C:\Users\Nirav Raj\Desktop\day 22\UC6InvokeAnalyzer\obj\Debug\net6.0\UC6InvokeAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav Raj\Desktop\day 22\UC6InvokeAnalyzer\obj\Debug\net6.0\UC6InvokeAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Nirav Raj\Desktop\day 22\UC6InvokeAnalyzer\obj\Debug\net6.0\UC6InvokeAnalyzer.AssemblyInfo.cs
+C:\Users\Nirav Raj\Desktop\day 22\UC6InvokeAnalyzer\obj\Debug\net6.0\UC6InvokeAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Nirav Raj\Desktop\day 22\UC6InvokeAnalyzer\obj\Debug\net6.0\UC6InvokeAnalyzer.dll
+C:\Users\Nirav Raj\Desktop\day 22\UC6InvokeAnalyzer\obj\Debug\net6.0\refint\UC6InvokeAnalyzer.dll
+C:\Users\Nirav Raj\Desktop\day 22\UC6InvokeAnalyzer\obj\Debug\net6.0\UC6InvokeAnalyzer.pdb
+C:\Users\Nirav Raj\Desktop\day 22\UC6InvokeAnalyzer\obj\Debug\net6.0\UC6InvokeAnalyzer.genruntimeconfig.cache
+C:\Users\Nirav Raj\Desktop\day 22\UC6InvokeAnalyzer\obj\Debug\net6.0\ref\UC6InvokeAnalyzer.dll
