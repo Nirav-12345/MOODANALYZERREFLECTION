@@ -1,0 +1,15 @@
+C:\Users\Nirav Raj\Desktop\day 22\UC6TCRETURNHAPPYMOOD\bin\Debug\net6.0\UC6TCRETURNHAPPYMOOD.exe
+C:\Users\Nirav Raj\Desktop\day 22\UC6TCRETURNHAPPYMOOD\bin\Debug\net6.0\UC6TCRETURNHAPPYMOOD.deps.json
+C:\Users\Nirav Raj\Desktop\day 22\UC6TCRETURNHAPPYMOOD\bin\Debug\net6.0\UC6TCRETURNHAPPYMOOD.runtimeconfig.json
+C:\Users\Nirav Raj\Desktop\day 22\UC6TCRETURNHAPPYMOOD\bin\Debug\net6.0\UC6TCRETURNHAPPYMOOD.dll
+C:\Users\Nirav Raj\Desktop\day 22\UC6TCRETURNHAPPYMOOD\bin\Debug\net6.0\UC6TCRETURNHAPPYMOOD.pdb
+C:\Users\Nirav Raj\Desktop\day 22\UC6TCRETURNHAPPYMOOD\obj\Debug\net6.0\UC6TCRETURNHAPPYMOOD.csproj.AssemblyReference.cache
+C:\Users\Nirav Raj\Desktop\day 22\UC6TCRETURNHAPPYMOOD\obj\Debug\net6.0\UC6TCRETURNHAPPYMOOD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav Raj\Desktop\day 22\UC6TCRETURNHAPPYMOOD\obj\Debug\net6.0\UC6TCRETURNHAPPYMOOD.AssemblyInfoInputs.cache
+C:\Users\Nirav Raj\Desktop\day 22\UC6TCRETURNHAPPYMOOD\obj\Debug\net6.0\UC6TCRETURNHAPPYMOOD.AssemblyInfo.cs
+C:\Users\Nirav Raj\Desktop\day 22\UC6TCRETURNHAPPYMOOD\obj\Debug\net6.0\UC6TCRETURNHAPPYMOOD.csproj.CoreCompileInputs.cache
+C:\Users\Nirav Raj\Desktop\day 22\UC6TCRETURNHAPPYMOOD\obj\Debug\net6.0\UC6TCRETURNHAPPYMOOD.dll
+C:\Users\Nirav Raj\Desktop\day 22\UC6TCRETURNHAPPYMOOD\obj\Debug\net6.0\refint\UC6TCRETURNHAPPYMOOD.dll
+C:\Users\Nirav Raj\Desktop\day 22\UC6TCRETURNHAPPYMOOD\obj\Debug\net6.0\UC6TCRETURNHAPPYMOOD.pdb
+C:\Users\Nirav Raj\Desktop\day 22\UC6TCRETURNHAPPYMOOD\obj\Debug\net6.0\UC6TCRETURNHAPPYMOOD.genruntimeconfig.cache
+C:\Users\Nirav Raj\Desktop\day 22\UC6TCRETURNHAPPYMOOD\obj\Debug\net6.0\ref\UC6TCRETURNHAPPYMOOD.dll
