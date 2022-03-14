@@ -1,0 +1,15 @@
+C:\Users\Nirav Raj\Desktop\day 22\UC6Refactor\bin\Debug\net6.0\UC6Refactor.exe
+C:\Users\Nirav Raj\Desktop\day 22\UC6Refactor\bin\Debug\net6.0\UC6Refactor.deps.json
+C:\Users\Nirav Raj\Desktop\day 22\UC6Refactor\bin\Debug\net6.0\UC6Refactor.runtimeconfig.json
+C:\Users\Nirav Raj\Desktop\day 22\UC6Refactor\bin\Debug\net6.0\UC6Refactor.dll
+C:\Users\Nirav Raj\Desktop\day 22\UC6Refactor\bin\Debug\net6.0\UC6Refactor.pdb
+C:\Users\Nirav Raj\Desktop\day 22\UC6Refactor\obj\Debug\net6.0\UC6Refactor.csproj.AssemblyReference.cache
+C:\Users\Nirav Raj\Desktop\day 22\UC6Refactor\obj\Debug\net6.0\UC6Refactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav Raj\Desktop\day 22\UC6Refactor\obj\Debug\net6.0\UC6Refactor.AssemblyInfoInputs.cache
+C:\Users\Nirav Raj\Desktop\day 22\UC6Refactor\obj\Debug\net6.0\UC6Refactor.AssemblyInfo.cs
+C:\Users\Nirav Raj\Desktop\day 22\UC6Refactor\obj\Debug\net6.0\UC6Refactor.csproj.CoreCompileInputs.cache
+C:\Users\Nirav Raj\Desktop\day 22\UC6Refactor\obj\Debug\net6.0\UC6Refactor.dll
+C:\Users\Nirav Raj\Desktop\day 22\UC6Refactor\obj\Debug\net6.0\refint\UC6Refactor.dll
+C:\Users\Nirav Raj\Desktop\day 22\UC6Refactor\obj\Debug\net6.0\UC6Refactor.pdb
+C:\Users\Nirav Raj\Desktop\day 22\UC6Refactor\obj\Debug\net6.0\UC6Refactor.genruntimeconfig.cache
+C:\Users\Nirav Raj\Desktop\day 22\UC6Refactor\obj\Debug\net6.0\ref\UC6Refactor.dll
