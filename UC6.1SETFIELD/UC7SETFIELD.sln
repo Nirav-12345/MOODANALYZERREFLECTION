@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC7SETFIELD", "UC7SETFIELD.csproj", "{55063BAC-C529-4AAA-B0AA-F64937B1093C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSTESTUC7", "..\MSTESTUC7\MSTESTUC7.csproj", "{46234067-FA4B-4332-82E3-76BE23947602}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55063BAC-C529-4AAA-B0AA-F64937B1093C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55063BAC-C529-4AAA-B0AA-F64937B1093C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55063BAC-C529-4AAA-B0AA-F64937B1093C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55063BAC-C529-4AAA-B0AA-F64937B1093C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46234067-FA4B-4332-82E3-76BE23947602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46234067-FA4B-4332-82E3-76BE23947602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46234067-FA4B-4332-82E3-76BE23947602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46234067-FA4B-4332-82E3-76BE23947602}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40DC6495-9D9E-4A06-91DD-92F21E5A10EF}
+	EndGlobalSection
+EndGlobal

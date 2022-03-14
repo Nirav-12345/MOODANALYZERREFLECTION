@@ -1,0 +1,15 @@
+C:\Users\Nirav Raj\Desktop\day 22\UC7SETFIELD\bin\Debug\net6.0\UC7SETFIELD.exe
+C:\Users\Nirav Raj\Desktop\day 22\UC7SETFIELD\bin\Debug\net6.0\UC7SETFIELD.deps.json
+C:\Users\Nirav Raj\Desktop\day 22\UC7SETFIELD\bin\Debug\net6.0\UC7SETFIELD.runtimeconfig.json
+C:\Users\Nirav Raj\Desktop\day 22\UC7SETFIELD\bin\Debug\net6.0\UC7SETFIELD.dll
+C:\Users\Nirav Raj\Desktop\day 22\UC7SETFIELD\bin\Debug\net6.0\UC7SETFIELD.pdb
+C:\Users\Nirav Raj\Desktop\day 22\UC7SETFIELD\obj\Debug\net6.0\UC7SETFIELD.csproj.AssemblyReference.cache
+C:\Users\Nirav Raj\Desktop\day 22\UC7SETFIELD\obj\Debug\net6.0\UC7SETFIELD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav Raj\Desktop\day 22\UC7SETFIELD\obj\Debug\net6.0\UC7SETFIELD.AssemblyInfoInputs.cache
+C:\Users\Nirav Raj\Desktop\day 22\UC7SETFIELD\obj\Debug\net6.0\UC7SETFIELD.AssemblyInfo.cs
+C:\Users\Nirav Raj\Desktop\day 22\UC7SETFIELD\obj\Debug\net6.0\UC7SETFIELD.csproj.CoreCompileInputs.cache
+C:\Users\Nirav Raj\Desktop\day 22\UC7SETFIELD\obj\Debug\net6.0\UC7SETFIELD.dll
+C:\Users\Nirav Raj\Desktop\day 22\UC7SETFIELD\obj\Debug\net6.0\refint\UC7SETFIELD.dll
+C:\Users\Nirav Raj\Desktop\day 22\UC7SETFIELD\obj\Debug\net6.0\UC7SETFIELD.pdb
+C:\Users\Nirav Raj\Desktop\day 22\UC7SETFIELD\obj\Debug\net6.0\UC7SETFIELD.genruntimeconfig.cache
+C:\Users\Nirav Raj\Desktop\day 22\UC7SETFIELD\obj\Debug\net6.0\ref\UC7SETFIELD.dll
